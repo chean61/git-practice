@@ -1,1 +1,2 @@
-"This is my Git practice lab." 
+"Lab7 실습 중..." 
+"오늘은 git init / add / commit / push 명령어를 연습했다." 
