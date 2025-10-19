@@ -1,2 +1,2 @@
-"print('Hello Git!')" 
-"print('This is my Git Lab 7 practice.')" 
+"print('Hello, Git!')" 
+"print('Lab7 ½Ç½À Áß')" 
